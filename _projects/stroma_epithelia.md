@@ -2,12 +2,12 @@
 layout: page
 title: Learning Corneal Epithelial Remodeling from Stromal Geometry Using Deep Neural Networks
 description: A deep learning framework for predicting corneal epithelial elevation directly from stromal geometry, modeling epithelial remodeling as a data-driven image-to-image translation problem with clinical relevance for surgical planning.
-img: assets/img/Stroma.png
+img: assets/img/Stroma.jpeg
 importance: 1
 category: Ongoing
 ---
 
-{% include figure.html path="assets/img/Stroma.png" title="Deep Learning-Based Corneal Epithelial Remodeling Prediction" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/Stroma.jpeg" title="Deep Learning-Based Corneal Epithelial Remodeling Prediction" class="img-fluid rounded z-depth-1" %}
 
 **Abstract**
 

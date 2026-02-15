@@ -2,12 +2,12 @@
 layout: page
 title: Efficient Variant Calling via 1D Feature Vector Representations
 description: A resource-efficient approach to variant calling that replaces 2D pileup image representations with compact 1D feature vectors, aiming to retain high accuracy while reducing computational and memory overhead compared to state-of-the-art deep learning methods.
-img: assets/img/VC.png
+img: assets/img/VC.jpeg
 importance: 3
 category: Ongoing
 ---
 
-{% include figure.html path="assets/img/VC.png" title="Variant Calling Using 1D Feature Vectors" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/VC.jpeg" title="Variant Calling Using 1D Feature Vectors" class="img-fluid rounded z-depth-1" %}
 
 **Abstract**
 

@@ -2,12 +2,12 @@
 layout: page
 title: Revisiting the Inferior-Superior (I-S) Value Metric using Machine Learning for Early Detection of Keratoconus
 description: A data-driven re-examination of the Inferior–Superior (I–S) index that introduces a posterior curvature-informed metric and leverages machine learning to significantly improve early and subclinical keratoconus detection.
-img: assets/img/PCI.png
+img: assets/img/PCI.jpeg
 importance: 3
 category: Finished
 ---
 
-{% include figure.html path="assets/img/PCI.png" title="Machine Learning-Enhanced Keratoconus Detection via Posterior Curvature" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/PCI.jpeg" title="Machine Learning-Enhanced Keratoconus Detection via Posterior Curvature" class="img-fluid rounded z-depth-1" %}
 
 **Abstract**
 

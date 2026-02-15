@@ -2,12 +2,12 @@
 layout: page
 title: Understanding Differential Privacy Through Representation Stability, Utility, and Attack Vulnerability
 description: A systematic study of how differential privacy reshapes neural representations in medical deep learning, linking privacy budgets to feature persistence, model utility, and empirical attack success rates.
-img: assets/img/DP_rep.png
+img: assets/img/DP_rep.jpeg
 importance: 2
 category: Ongoing
 ---
 
-{% include figure.html path="assets/img/DP_rep.png" title="Effects of Differential Privacy on Representation Learning" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/DP_rep.jpeg" title="Effects of Differential Privacy on Representation Learning" class="img-fluid rounded z-depth-1" %}
 
 **Abstract**
 

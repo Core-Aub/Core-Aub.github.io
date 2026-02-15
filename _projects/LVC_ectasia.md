@@ -2,12 +2,12 @@
 layout: page
 title: Raw versus Engineered Tomographic Representations for Post–Laser Vision Correction Ectasia Diagnosis
 description: A postoperative, single-exam classification framework for detecting post-laser vision correction ectasia using high-dimensional raw corneal tomography maps and interpretable deep learning.
-img: assets/img/post_lvc.png
+img: assets/img/post_lvc.jpeg
 importance: 1
 category: Finished
 ---
 
-{% include figure.html path="assets/img/post_lvc.png" title="Post-LVC Ectasia Detection from Raw Corneal Tomography" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/post_lvc.jpeg" title="Post-LVC Ectasia Detection from Raw Corneal Tomography" class="img-fluid rounded z-depth-1" %}
 
 **Abstract**
 
@@ -17,6 +17,6 @@ Results: We propose a data-driven approach for postoperative Post-LVC ectasia cl
 
 Interpretability and Error Analysis: To assess clinical validity and model behavior, we analyze TabNet attention maps corresponding to correctly and incorrectly classified cases. These attention maps reveal anatomically meaningful regions of focus that align with known ectatic deformation patterns, providing insight into the decision-making process of the network. Error analysis further highlights scenarios where subtle postoperative changes challenge both automated and expert assessment, underscoring the difficulty of the task.
 
-{% include figure.html path="assets/img/post_lvc_attention.png" title="TabNet Attention Maps" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/post_lvc_attention.jpeg" title="TabNet Attention Maps" class="img-fluid rounded z-depth-1" %}
 
 Conclusion: This work introduces the first automated, tomography-only, single-exam framework for Post-LVC ectasia detection. By leveraging raw corneal maps, principled dimensionality reduction, and interpretable deep learning, we demonstrate that postoperative ectasia can be detected with high accuracy and clinically meaningful explanations.
