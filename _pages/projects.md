@@ -71,3 +71,9 @@ nav_order: 1
 
   </div>
 </div>
+
+<div class="container text-center mt-4">
+  <p>
+    <b>See our GitHub organization:</b> <a href="https://github.com/Core-Aub" target="_blank" rel="noopener">https://github.com/Core-Aub</a>
+  </p>
+</div>
