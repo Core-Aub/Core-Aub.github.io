@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: people/rida-assaf.png
+  image: people/group.jpeg
   image_circular: false
   address: >
     <p>Office: Bliss Hall, 206c</p>
